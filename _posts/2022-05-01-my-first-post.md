@@ -1,6 +1,5 @@
 ---
 title: "[Jekyll] Welcome to muyaho-universe"
-excerpt: "Let's use some markdown grammar"
 
 catergories:
  - Blog
