@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[Jekyll] Welcome to muyaho-universe"
 
 catergories:
