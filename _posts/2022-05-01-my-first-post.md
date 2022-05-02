@@ -5,7 +5,7 @@ title: "[Jekyll] Welcome to muyaho-universe"
 catergories:
  - Blog
 tage:
- -[Blog, jekyll, Githun, Git]
+ - [Blog, jekyll, Githun, Git]
 
 toc: true
 toc_sticky: true
