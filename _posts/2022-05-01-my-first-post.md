@@ -13,12 +13,16 @@ toc_sticky: true
 date: 2022-05-01
 last_modified_at: 2022-05-01
 ---
-itHub Blog 서비스인 github.io 블로그 시작하기로 했다.
-GitHub Blog 서비스의 이름은 Pages이다.
+# Github.io를 시작하며
 
-Pages가 다른 블로그 플랫폼 보다 편한 것 같아서 마음에 든다.
-다른 사람들도 같이 많이 사용했으면 좋겠다는 생각이 든다.
+이번에 처음으로 **gihub.io**를 시작하게 되었다.
+한동대학교 전산전자공학부에서 _컴퓨터공학심화_를 공부하고 있다.
 
-YFM에서 정의한 제목을 이중 괄호 구문으로 본문에 추가할 수 있다.
 이 글의 제목은 {{ page.title }}이고
 마지막으로 수정된 시간은 {{ page.last_modified_at }}이다.
+
+## Post하는 법
+자신의 `gitgub.io` 아래에 `_post` directory를 만들고 그 안에 `YYYY-MM-DD-title.md`로 만들면 된다.
+이것은 그것의 첫번째 예시 페이지이다.
+
+
